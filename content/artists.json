@@ -1,0 +1,5 @@
+[
+  { "name": "Ludwig van Beethoven", "slug": "beethoven", "folder": "beethoven" },
+  { "name": "Johann Sebastian Bach", "slug": "bach", "folder": "bach" },
+  { "name": "Frédéric Chopin", "slug": "chopin", "folder": "chopin" }
+]

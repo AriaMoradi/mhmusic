@@ -1,0 +1,9 @@
+{
+  "songs": [
+    { "title": "Bach - Song 1", "file": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" },
+    { "title": "Bach - Song 2", "file": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" },
+    { "title": "Bach - Song 3", "file": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+    { "title": "Bach - Song 4", "file": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+    { "title": "Bach - Song 5", "file": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" }
+  ]
+}
